@@ -1,5 +1,9 @@
 package klog
 
+import "flag"
+
+func InitFlags(flagset *flag.FlagSet) {}
+
 type Verbose bool
 
 type Level int32

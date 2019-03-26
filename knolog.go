@@ -1,4 +1,4 @@
-package knolog
+package klog
 
 type Verbose bool
 
